@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SRC001",
+    "url": "https://youtu.be/FXiaNEjFcjc",
+    "title": "Capgemini Recruitment Process and Syllabus",
+    "category": "Recruitment Info",
+    "notes": "Details Capgemini hiring patterns, stages, and package options (Differential packages like 4 LPA and 7.5 LPA).",
+    "accessStatus": "metadata-only",
+    "topicsObserved": [
+      "english-comprehension",
+      "game-based-test",
+      "pseudocode",
+      "technical-interview"
+    ]
+  },
+  {
+    "id": "SRC002",
+    "url": "https://youtu.be/uagCF1AZ8x4",
+    "title": "Capgemini Pseudocode and Coding Round Prep",
+    "category": "Technical Prep",
+    "notes": "Covers recurring bitwise pseudocode patterns, loops, and array-based prediction questions.",
+    "accessStatus": "metadata-only",
+    "topicsObserved": [
+      "pseudocode-bitwise",
+      "nested-loops",
+      "recursion-tracing"
+    ]
+  }
+]
